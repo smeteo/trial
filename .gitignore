@@ -1,1 +1,5 @@
 database.txt
+
+htmls/*
+
+!htmls/fil2.docx
